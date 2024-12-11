@@ -18,4 +18,4 @@
 
 
 ## Contacts 
- [![Gmail Badge](https://img.shields.io/badge/-stolyarov_396@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stolyarov_396@icloud.com)](mailto:stolyarov_396@icloud.com)
+ [![Gmail Badge](https://img.shields.io/badge/-stolyarov_396@icloud.com-394fc3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stolyarov_396@icloud.com)](mailto:stolyarov_396@icloud.com)
