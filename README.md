@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,redux,bootstrap,materialui,tailwind,webpack,jest,figma,apollo,angular,next,graphql&perline=10)](https://skillicons.dev)
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,nestjs,postgresq,postman,pythonl&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,nestjs,postgres,postman,python&perline=10)](https://skillicons.dev)
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker&perline=10)](https://skillicons.dev)
 ## Miscellaneous Stats
@@ -17,7 +17,7 @@
 
 
      
-<img src="https://github-profile-trophy.vercel.app/?username=Sasha39612&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
+<img src="https://github-profile-trophy.vercel.app/?username=Sasha39612&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=9">
   
 
 </div>
