@@ -17,5 +17,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Sasha39612&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=9">
 
 
+<div></div>
+
 ## Contacts 
  [![Gmail Badge](https://img.shields.io/badge/-stolyarov_396@icloud.com-394fc3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stolyarov_396@icloud.com)](mailto:stolyarov_396@icloud.com)
