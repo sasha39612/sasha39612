@@ -13,19 +13,8 @@
 
 <img alt="github start" align="left" width="47%" src="https://github.r2v.ch/codewars?user=OleksandrStolyarov&stroke=%23BB432C" />
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sasha39612&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sasha39612&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sasha39612&show_icons=true" />
-</picture>
-
-<div></div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasha39612&show_icons=true#gh-light-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasha39612&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ## Contacts 
  [![Gmail Badge](https://img.shields.io/badge/-stolyarov_396@icloud.com-394fc3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stolyarov_396@icloud.com)](mailto:stolyarov_396@icloud.com)
