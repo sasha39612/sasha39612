@@ -12,10 +12,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Sasha39612)
 
 <img alt="github start" align="left" width="47%" src="https://github.r2v.ch/codewars?user=OleksandrStolyarov&stroke=%23BB432C" />
-<img alt="github start" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasha39612&langs_count=8&layout=compact&theme=dark" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sasha39612&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1">
-
 
 <div></div>
 
