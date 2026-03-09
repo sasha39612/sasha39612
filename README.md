@@ -1,20 +1,65 @@
-# My Tech Stack
+# Hi there 👋 I'm Oleksandr
+
+Frontend / Full-Stack Developer focused on **React, TypeScript, and Node.js**.
+
+---
+
+# 🧰 Tech Stack
 
 ## Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,redux,bootstrap,materialui,tailwind,webpack,jest,figma,apollo,angular,next,graphql&perline=9)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,next,angular,ts,js,html,css,sass,redux,apollo,graphql,tailwind,bootstrap,materialui,webpack,jest,figma,vscode\&perline=9)](https://skillicons.dev)
+
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,nestjs,postgres,postman,python&perline=10)](https://skillicons.dev)
-## DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker&perline=10)](https://skillicons.dev)
-## Miscellaneous Stats
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Sasha39612)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,graphql,postman,python\&perline=8)](https://skillicons.dev)
 
-<img alt="github start" align="left" width="47%" src="https://github.r2v.ch/codewars?user=OleksandrStolyarov&stroke=%23BB432C" />
+## DevOps & Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasha39612&show_icons=true#gh-light-mode-only)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasha39612&show_icons=true&theme=dark#gh-dark-mode-only)
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab\&perline=6)](https://skillicons.dev)
 
-## Contacts 
- [![Gmail Badge](https://img.shields.io/badge/-stolyarov_396@icloud.com-394fc3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stolyarov_396@icloud.com)](mailto:stolyarov_396@icloud.com)
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Sasha39612&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sasha39612&show_icons=true" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha39612&layout=compact&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha39612&layout=compact&langs_count=8" />
+</picture>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sasha39612)
+
+</p>
+
+---
+
+# 🏆 Codewars
+
+<p align="left">
+<img width="50%" src="https://github.r2v.ch/codewars?user=OleksandrStolyarov&stroke=%23BB432C" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sasha39612)
+
+---
+
+# 📫 Contact
+
+[![Email](https://img.shields.io/badge/email-stolyarov_396@icloud.com-blue?style=for-the-badge\&logo=gmail)](mailto:stolyarov_396@icloud.com)
