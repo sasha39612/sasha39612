@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Oleksandr
 
-Software Engineer / Full-Stack Developer focused on **JavaScript/TypeScript, React, Next.js and Node.js**.
+Software Engineer specializing in full-stack **JavaScript/TypeScript development with React, Next.js, and Node.js**.
 
 ---
 
