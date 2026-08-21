@@ -102,7 +102,7 @@ OpenAI API · LangChain · Azure Speech · External API integrations
 I'm open to **Full-stack / Backend / TypeScript opportunities**.
 
 - 📧 [Email](mailto:stolyarov_396@icloud.com)
-- 💼 [LinkedIn](www.linkedin.com/in/oleksandr-stolyarov-58343658)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-stolyarov-58343658)
 
 ---
 
