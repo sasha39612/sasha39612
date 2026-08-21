@@ -12,7 +12,7 @@ I build modern web applications across the **frontend, backend, and infrastructu
 
 ### 🧠 Scalable Microservices Dashboard
 
-Full-stack analytics platform built around a microservices architecture with AI-powered insights.
+Full-stack analytics platform demonstrating microservices architecture, asynchronous processing, and AI-powered insights.
 
 **Next.js · React · TypeScript · NestJS · GraphQL · PostgreSQL · Redis · Docker · OpenAI**
 
@@ -102,7 +102,7 @@ OpenAI API · LangChain · Azure Speech · External API integrations
 I'm open to **Full-stack / Backend / TypeScript opportunities**.
 
 - 📧 [Email](mailto:stolyarov_396@icloud.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-stolyarov-58343658)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-stolyarov-58343658/)
 
 ---
 
