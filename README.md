@@ -1,10 +1,12 @@
 # Hi, I'm Oleksandr 👋
 
-### Full-stack TypeScript Developer
+### Software Engineer · React · TypeScript · Next.js · Node.js · AI
 
-I build modern web applications across the **frontend, backend, and infrastructure**, with a focus on scalable architecture, APIs, clean code, testing, and AI-powered features.
+Frontend-focused software engineer with **5+ years of commercial experience** building production web applications with React and TypeScript.
 
-**React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · GraphQL**
+I focus on **frontend architecture, scalable full-stack systems, testing, performance, and AI-powered product features**, with hands-on experience across the entire development lifecycle.
+
+**React · TypeScript · Next.js · Node.js · NestJS · GraphQL · PostgreSQL · AI**
 
 ---
 
@@ -12,7 +14,9 @@ I build modern web applications across the **frontend, backend, and infrastructu
 
 ### 🧠 Scalable Microservices Dashboard
 
-Full-stack analytics platform demonstrating microservices architecture, asynchronous processing, and AI-powered insights.
+Full-stack analytics platform demonstrating **microservices architecture, asynchronous processing, and AI-powered insights**.
+
+Built with a modular frontend and backend architecture, Redis-based processing, PostgreSQL persistence, Dockerized services, and OpenAI integration.
 
 **Next.js · React · TypeScript · NestJS · GraphQL · PostgreSQL · Redis · Docker · OpenAI**
 
@@ -22,7 +26,9 @@ Full-stack analytics platform demonstrating microservices architecture, asynchro
 
 ### 🗣️ Lingua Pro
 
-AI-powered language learning platform with speech processing, pronunciation analysis, and personalized feedback.
+AI-powered language learning platform combining **speech processing, pronunciation analysis, and personalized feedback**.
+
+Integrates AI services with a full-stack TypeScript architecture and demonstrates real-time user interaction, API integration, and containerized development.
 
 **Next.js · React · TypeScript · NestJS · GraphQL · PostgreSQL · Docker · OpenAI · Azure Speech**
 
@@ -32,7 +38,7 @@ AI-powered language learning platform with speech processing, pronunciation anal
 
 ### 💰 Personal Finance Tracker
 
-Full-stack finance management application focused on backend architecture, GraphQL APIs, PostgreSQL, testing, and containerized development.
+Full-stack finance management application focused on **API design, data modelling, backend architecture, testing, and maintainable application structure**.
 
 **Next.js · NestJS · GraphQL · PostgreSQL · TypeORM · Docker · Jest**
 
@@ -40,11 +46,11 @@ Full-stack finance management application focused on backend architecture, Graph
 
 ---
 
-### 🚗 React Marketplace
+### 🛒 React Marketplace
 
-Modern React marketplace application with GraphQL, Apollo Client, reusable UI components, routing, and automated testing.
+Production-oriented React application demonstrating **component architecture, GraphQL integration, client-side state management, routing, and automated testing**.
 
-**React · TypeScript · Vite · GraphQL · Apollo · TailwindCSS · Vitest**
+**React · TypeScript · Vite · GraphQL · Apollo Client · TailwindCSS · Vitest**
 
 [View project →](https://github.com/sasha39612/SPA-Vite-React)
 
@@ -52,7 +58,7 @@ Modern React marketplace application with GraphQL, Apollo Client, reusable UI co
 
 ### 🌐 Brochure
 
-Modern web application built with Next.js and TypeScript, focused on production-oriented frontend development and integrations.
+Modern web application built with Next.js and TypeScript, focused on **frontend architecture, responsive UI, reusable components, and production-oriented development**.
 
 **Next.js · React · TypeScript · TailwindCSS**
 
@@ -62,44 +68,53 @@ Modern web application built with Next.js and TypeScript, focused on production-
 
 ## 🛠️ Technical Focus
 
-### Frontend
+### Frontend Engineering
 
-TypeScript · JavaScript · React · Next.js · Vite · Apollo Client · GraphQL · TailwindCSS · Redux
+**TypeScript · JavaScript · React · Next.js · Vite · GraphQL · Apollo Client · Redux · TailwindCSS**
 
-### Backend
+Component architecture · State management · API integration · Performance · Responsive UI
 
-Node.js · NestJS · Express · REST APIs · GraphQL · PostgreSQL · MongoDB · TypeORM · Authentication · Microservices · Background Jobs
+### Full-stack Development
 
-### Infrastructure
+**Node.js · NestJS · Express · REST APIs · GraphQL · PostgreSQL · MongoDB · TypeORM**
 
-Docker · Docker Compose · GitHub Actions · Git · GitLab · Nginx · CI/CD
-
-### Testing
-
-Jest · Vitest · React Testing Library · Unit Testing · Integration Testing · E2E Testing
+Authentication · Microservices · Background Jobs · Data Modelling · Asynchronous Processing
 
 ### AI & Integrations
 
-OpenAI API · LangChain · Azure Speech · External API integrations
+**OpenAI API · LangChain · Azure Speech**
+
+LLM-powered applications · AI-assisted development · External API integrations
+
+### Engineering & Infrastructure
+
+**Docker · Docker Compose · GitHub Actions · Git · GitLab · Nginx · CI/CD**
+
+### Testing
+
+**Jest · Vitest · React Testing Library**
+
+Unit Testing · Integration Testing · E2E Testing
 
 ---
 
 ## 🧩 Engineering Interests
 
-- Full-stack TypeScript applications
-- Scalable backend architectures
-- REST and GraphQL APIs
+- Frontend architecture and scalable React applications
+- Type-safe full-stack TypeScript systems
+- Next.js and modern web application architecture
+- API design with REST and GraphQL
 - Microservices and asynchronous processing
-- PostgreSQL and data modelling
-- AI-powered product features
+- AI-powered product development
+- Performance and maintainability
 - Automated testing and CI/CD
-- Clean and maintainable code
+- Developer experience and clean code
 
 ---
 
 ## 📫 Contact
 
-I'm open to **Full-stack / Backend / TypeScript opportunities**.
+I'm open to **Senior Software Engineer, Frontend, React, and Full-stack TypeScript opportunities**.
 
 - 📧 [Email](mailto:stolyarov_396@icloud.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-stolyarov-58343658/)
