@@ -42,12 +42,6 @@ Production-oriented React application demonstrating **component architecture, Gr
 
 ---
 
-### 🌐 Brochure
-Modern web application built with Next.js and TypeScript, focused on **frontend architecture, responsive UI, reusable components, and production-oriented development**.
-**Next.js · React · TypeScript · TailwindCSS**
-[View project →](https://github.com/sasha39612/Brochure)
-
----
 
 ## 🛠️ Technical Focus
 
