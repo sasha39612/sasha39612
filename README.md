@@ -18,7 +18,8 @@ testing, and AI-powered product features**.
 AI-powered language-learning platform built as a **7-service microservice system** with
 speech processing, pronunciation analysis, and personalized feedback.
 Hard boundary between deterministic scoring (Azure Speech) and generative feedback (OpenAI),
-Apollo Federation gateway, per-service databases, and full CI/CD. **400+ unit + 40+ e2e tests.**
+Apollo Federation gateway, per-service databases, and full CI/CD. Comprehensive unit and
+e2e test coverage.
 
 **Next.js · React · TypeScript · NestJS · GraphQL · PostgreSQL · Docker · OpenAI · Azure Speech**
 [View project →](https://github.com/sasha39612/Lingua_Pro)
@@ -29,7 +30,8 @@ Apollo Federation gateway, per-service databases, and full CI/CD. **400+ unit + 
 Full-stack analytics platform demonstrating **microservices architecture, background
 processing, and AI-powered insights**.
 API gateway with JWT auth & RBAC, Redis-based processing, PostgreSQL persistence,
-Dockerized services, Kubernetes manifests, and a multi-turn AI assistant. **200+ backend tests.**
+Dockerized services, Kubernetes manifests, and a multi-turn AI assistant. Backend covered
+by an automated test suite.
 
 **Next.js · React · TypeScript · NestJS · GraphQL · PostgreSQL · Redis · Docker · Kubernetes · OpenAI**
 [View project →](https://github.com/sasha39612/scalable-microservices-dashboard-with-ai)
@@ -39,7 +41,7 @@ Dockerized services, Kubernetes manifests, and a multi-turn AI assistant. **200+
 ### 💰 Personal Finance Tracker
 Full-stack finance application focused on **backend architecture, API design, and
 maintainable structure** — GraphQL API, PostgreSQL with TypeORM migrations, error handling,
-and unit + e2e tests. Auth intentionally out of scope (backend/API focus).
+and unit and e2e tests. Auth intentionally out of scope (backend/API focus).
 
 **Next.js · NestJS · GraphQL · PostgreSQL · TypeORM · Docker · Jest**
 [View project →](https://github.com/sasha39612/Personal-Finance-Tracker)
@@ -47,13 +49,13 @@ and unit + e2e tests. Auth intentionally out of scope (backend/API focus).
 ---
 
 ### 🎨 Designer Portfolio
-Production portfolio site **designed and built for a professional UI/UX designer**.
-Content-driven architecture with a reusable component library composed via typed MDX,
-plus a Gmail OAuth2 contact form with server-side reCAPTCHA. Deployed to production
-(live deployment since retired).
+Production portfolio site built to bring a professional UI/UX designer's work to
+production — I implemented the frontend and deployed it. Content-driven architecture with
+a reusable component library composed via typed MDX, plus a Gmail OAuth2 contact form with
+server-side reCAPTCHA.
 
 **Next.js 16 · React 19 · TypeScript · Sass · MDX · Nodemailer · Google APIs**
-[View project →](https://github.com/sasha39612/portfolio_Ann)
+[View project →](https://github.com/sasha39612/portfolio_Ann) · [Live demo →](https://portfolio-ann-designer.vercel.app/)
 
 ---
 
